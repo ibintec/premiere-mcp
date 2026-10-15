@@ -1,0 +1,21 @@
+{
+  "id": "com.mcp.premiere.uxpbridge",
+  "name": "MCP Transcript Bridge",
+  "version": "1.0.0",
+  "host": {
+    "app": "premierepro",
+    "minVersion": "25.6.0"
+  },
+  "main": "index.html",
+  "entrypoints": [
+    {
+      "type": "panel",
+      "id": "mcp-uxp-bridge-panel",
+      "label": { "default": "MCP Transcript Bridge" }
+    }
+  ],
+  "manifestVersion": 5,
+  "requiredPermissions": {
+    "localFileSystem": "fullAccess"
+  }
+}

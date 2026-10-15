@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "premiere-pro-mcp",
+  "displayName": "Ibintec Premiere MCP",
+  "version": "1.3.0-ibintec.1",
+  "description": "Inspect, see, edit, verify, and export local Adobe Premiere Pro projects through Ibintec Premiere MCP.",
+  "author": {
+    "name": "Ibintec Limited",
+    "url": "https://github.com/ibintec/premiere-mcp"
+  },
+  "homepage": "https://github.com/ibintec/premiere-mcp",
+  "repository": "https://github.com/ibintec/premiere-mcp",
+  "license": "MIT",
+  "keywords": [
+    "premiere-pro",
+    "video-editing",
+    "mcp",
+    "timeline",
+    "export"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "premiere-pro-mcp",
+  "version": "1.3.0-ibintec.1",
+  "description": "Inspect, see, edit, verify, and export local Adobe Premiere Pro projects through Ibintec Premiere MCP.",
+  "author": {
+    "name": "Ibintec Limited",
+    "url": "https://github.com/ibintec/premiere-mcp"
+  },
+  "homepage": "https://github.com/ibintec/premiere-mcp",
+  "repository": "https://github.com/ibintec/premiere-mcp",
+  "license": "MIT",
+  "keywords": [
+    "premiere-pro",
+    "video-editing",
+    "mcp",
+    "timeline",
+    "export"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Ibintec Premiere MCP",
+    "shortDescription": "Operate local Premiere projects through MCP",
+    "longDescription": "Edit local Premiere Pro projects from your AI client: verify the CEP bridge, see clips and the timeline, build cuts and hooks, render animated titles, and export.",
+    "developerName": "Ibintec Limited",
+    "category": "Creativity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/ibintec/premiere-mcp",
+    "privacyPolicyURL": "https://github.com/ibintec/premiere-mcp/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/ibintec/premiere-mcp/blob/main/TERMS.md",
+    "defaultPrompt": [
+      "Verify my local Premiere connection without making changes.",
+      "Inspect my active Premiere sequence and summarize its tracks.",
+      "Create a rough cut from these local media files and verify it."
+    ],
+    "brandColor": "#5FD3C6"
+  }
+}
