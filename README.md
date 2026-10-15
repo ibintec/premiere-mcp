@@ -1,6 +1,6 @@
 # Ibintec Premiere MCP
 
-**AI video editing for Adobe Premiere Pro 20+, where the AI can see your footage.**
+**AI video editing for Adobe Premiere Pro 2020+, where the AI can see your footage.**
 
 Ibintec Premiere MCP connects an AI client such as Claude Desktop to Adobe
 Premiere Pro on your computer. The AI can look at your clips, choose the best
